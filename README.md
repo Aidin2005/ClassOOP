@@ -29,7 +29,7 @@ def apply_discount(self, discount):
     else:
         print("Price is not set.")
 This allows for dynamic price changes after the car is created. You can adjust the price anytime you want.
-[myDocuments.cannedSearch.zip](https://github.com/user-attachments/files/18633353/myDocuments.cannedSearch.zip)
+
 
 How It Meets the Requirements:
 	•	Stores Car Info: The class takes care of storing all the essential details like make, model, year, and price.
