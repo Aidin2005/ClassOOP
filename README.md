@@ -13,7 +13,7 @@ class Car:
             print(f"Car Info: {self.year} {self.make} {self.model}, Price: Not available")
 
     def apply_discount(self, discount):
-        # Проверка на корректность введенного дисконта
+       
         if not (0 <= discount <= 100):
             print("Discount must be between 0 and 100%.")
             return
