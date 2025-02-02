@@ -1,4 +1,4 @@
-1. The Class Itself:
+![class uml](https://github.com/user-attachments/assets/501db588-c448-47fa-af8d-0b53c9221976)1. The Class Itself:
 
 The Car class is a blueprint for creating car objects. It has attributes like make, model, year, and price to store details about the car. When you create a new car, you pass these details into the class, and they get saved in the object.
 
@@ -15,7 +15,7 @@ So when you create a car, you give it a make, model, year, and price, and it sto
 3. The display_info Method:
 
 This method is for showing the car’s information. It prints out the details like the make, model, year, and price in a nice, easy-to-read format.
-   def display_info(self):
+   def display_info
        print(f"Car Info: {self.year} {self.make} {self.model}, Price: ${self.price}")
 
 4. The apply_discount Method:
@@ -29,9 +29,10 @@ def apply_discount(self, discount):
     else:
         print("Price is not set.")
 This allows for dynamic price changes after the car is created. You can adjust the price anytime you want.
+[myDocuments.cannedSearch.zip](https://github.com/user-attachments/files/18633353/myDocuments.cannedSearch.zip)
 
 How It Meets the Requirements:
 	•	Stores Car Info: The class takes care of storing all the essential details like make, model, year, and price.
 	•	Shows Car Info: The display_info method helps to print out the details of each car, so you can easily review them.
-	•	Applies Discounts: The apply_discount method lets you apply discounts to the car’s price, and it update![class uml](https://github.com/user-attachments/assets/68e6f0ca-5d6f-4eee-8820-92e03be9f181)
+	•	Applies Discounts: The apply_discount method lets you apply discounts to the car’s price, and it update!
 s the price accordingly.
