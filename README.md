@@ -33,4 +33,5 @@ This allows for dynamic price changes after the car is created. You can adjust t
 How It Meets the Requirements:
 	•	Stores Car Info: The class takes care of storing all the essential details like make, model, year, and price.
 	•	Shows Car Info: The display_info method helps to print out the details of each car, so you can easily review them.
-	•	Applies Discounts: The apply_discount method lets you apply discounts to the car’s price, and it updates the price accordingly.
+	•	Applies Discounts: The apply_discount method lets you apply discounts to the car’s price, and it update![class uml](https://github.com/user-attachments/assets/68e6f0ca-5d6f-4eee-8820-92e03be9f181)
+s the price accordingly.
